@@ -1,0 +1,9 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [mach_canh_bao_lu.PrjPCB]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 5:18:45 PM On 7/28/2023
